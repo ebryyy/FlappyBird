@@ -49,5 +49,11 @@ Android:
 **ebryyy**  
 [GitHub](https://github.com/ebryyy)
 
+//Learning Source
+This project was created by following a YouTube tutorial series by Bekir Güngör.
+The goal was to learn Unity fundamentals such as physics, game loops, animations, and input systems by recreating the classic Flappy Bird.
 
-> This project was created for learning and educational purposes using Unity 2022.3.
+All rights to the original tutorial and assets belong to their respective creators.
+This remake was built strictly for educational and practice purposes.
+
+Developed with Unity 2022.3

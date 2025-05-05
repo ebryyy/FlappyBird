@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 7e0d9e82584e91a4c8b3dc3577e6de78
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - MyRigidBody: {fileID: 3982505226567930974, guid: d108d5bea4147ff439e7a74036f7c25b, type: 3}
+  - Anim: {fileID: 6762403030901214261, guid: d108d5bea4147ff439e7a74036f7c25b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

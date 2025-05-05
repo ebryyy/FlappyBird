@@ -84,7 +84,7 @@ public class GamePlayController : MonoBehaviour
     public void ResumeGame()
     {
         Time.timeScale = 1;
-        pausePanel.SetActive(true);
+        pausePanel.SetActive(false);
     }
     public void PlayGame()
     {

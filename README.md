@@ -50,6 +50,7 @@ Android:
 [GitHub](https://github.com/ebryyy)
 
 //Learning Source
+
 This project was created by following a YouTube tutorial series by Bekir Güngör.
 The goal was to learn Unity fundamentals such as physics, game loops, animations, and input systems by recreating the classic Flappy Bird.
 
